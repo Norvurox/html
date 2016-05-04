@@ -1,0 +1,21 @@
+body {
+	background-color: #eeffdd;
+}
+div.inhalt {
+	position:static;
+	width: 400px;
+	height: 300px;
+	margin-left: 150px;
+    background-color: #88ccff;
+}
+
+div.kiste {
+	width:100px;
+	padding: 5px;
+	height: 100px; 
+	background-color: #ffccaa;
+}
+ul.menu {
+	position:static;
+	float:left;
+}

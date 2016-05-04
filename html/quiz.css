@@ -1,0 +1,32 @@
+body {
+  background-color: #CEBF6B;
+			margin-left: 200px;
+		  margin-right: 200px;
+			font-size: 200%;
+      background-image: url(http://www.v3wall.com/wallpaper/1280_1024/0911/1280_1024_20091122121353163221.jpg);
+      background-position: right;
+      background-repeat: repeat;
+}
+
+            p {font-family: Verdana, sans-serif;}
+
+            h2 {color: blue;
+                text-align: center;
+                font-size: 300%;
+                font-family: Verdana, sans-serif;
+                text-decoration: underline;}
+
+            div {border: 5px solid blue;
+                 background-color: #DA7570;
+                 text-align: center;
+                 }
+
+            ol {list-style: upper-roman;
+                color: yellow;
+                font-weight: bold;
+                font-style: italic;}
+
+ul {
+  list-style-type: square;
+  list-style-image: url(http://hackandboots-metin2.blogspot.de/favicon.ico);
+}
